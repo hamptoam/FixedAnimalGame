@@ -302,7 +302,13 @@
 /define:ENABLE_VSTU
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
+"Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs"
+"Assets/Challenge 2/Scripts/DetectCollisionsX.cs"
+"Assets/Challenge 2/Scripts/MoveForwardX.cs"
+"Assets/Challenge 2/Scripts/PlayerControllerX.cs"
+"Assets/Challenge 2/Scripts/SpawnManagerX.cs"
 "Assets/Scripts/DestroyOutOfBounds.cs"
+"Assets/Scripts/DetectCollisions.cs"
 "Assets/Scripts/MoveForward.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/SpawnManager.cs"
